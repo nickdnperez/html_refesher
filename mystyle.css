@@ -1,7 +1,8 @@
 body {
-    background-color: lightgrey;
-    br:left
+    background-color: white;
+    
 }
+
 
 .floatleft {
 	float:left;
@@ -22,4 +23,3 @@ body {
 .titles {
     text-align: center;
 }
-
