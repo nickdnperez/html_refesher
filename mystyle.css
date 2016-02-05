@@ -1,0 +1,25 @@
+body {
+    background-color: lightgrey;
+    br:left
+}
+
+.floatleft {
+	float:left;
+	margin:1.5%;
+	width:50%;
+}
+.photo{
+	width:100%;
+	border: 1%;
+}
+#photo1 {
+	width:100%;
+	text-align: left;
+	font-size:85%;
+}
+
+
+.titles {
+    text-align: center;
+}
+
